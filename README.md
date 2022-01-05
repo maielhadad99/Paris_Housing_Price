@@ -1,14 +1,14 @@
 # Paris_Housing_Price
 
-Context
+## Context
 
 This is a set of data created from imaginary data of house prices in an urban environment - Paris. I recommend using this dataset for educational purposes, for practice and to acquire the necessary knowledge. What I'm trying to do next is to create a classification dataset with same data from this dataset, I'll add a new column for class attribute ofc. Here is a classification dataset ---> classification dataset <---
 
-Content
+## Content
 
 What's inside is more than just rows and columns. You can see house details listed as column names.
 
-Description
+## Description
 
 All attributes are numeric variables and they are listed bellow:
 
